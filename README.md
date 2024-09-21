@@ -9,6 +9,10 @@ This repository showcases my skills and projects in both frontend and backend de
 **Domain:** Full-stack Development  
 **Duration:** August 30th to September 30th of 2024
 
+**Sample Output**
+![image](https://github.com/user-attachments/assets/a8cc1e2f-b6eb-4be8-8559-224533c42762)
+
+
 ## Key Activity Overview
 
 The Full-Stack Developer Portfolio showcases a collection of projects that demonstrate my expertise in both frontend and backend development. This portfolio is designed to highlight my ability to create dynamic, responsive, and user-friendly web applications, with a focus on delivering a seamless user experience and efficient performance.
