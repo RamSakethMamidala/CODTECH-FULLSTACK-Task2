@@ -1,7 +1,7 @@
 # CODTECH-FULLSTACK-Task2
 # Ecommerce Website
 
-This repository showcases my skills and projects in both frontend and backend development. As a third-year B.Tech student in Artificial Intelligence and Data Science at Chaitanya Bharathi of Technology, I am passionate about building robust and user-friendly applications.
+This repository showcases my skills and projects in both frontend and backend development. As a third-year B.Tech student in Artificial Intelligence and Data Science at Chaitanya Bharathi Institute of Technology, I am passionate about building robust and user-friendly applications.
 
 **Name:** Ram Saketh  
 **Company:** Codtech IT Solutions  
